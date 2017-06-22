@@ -174,7 +174,7 @@ puts "\n\nAinsi débutent les aventures de #{joueur.nom}\n\n"
   break if Jeu.est_fini(joueur, monde)
 end
 
-puts "\nGame Over!\n"
+puts "\nFin du jeu !\n"
 
 # A faire:
 # - Afficher le résultat de la partie
